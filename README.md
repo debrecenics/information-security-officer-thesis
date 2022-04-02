@@ -1,1 +1,1 @@
-# information-security-officer-thesis
+# AZ EURÓPAI UNIÓ ÉS AZ EGYESÜLT ÁLLAMOK INFORMÁCIÓBIZTONSÁGI SZABÁLYOZÁSÁNAK ÖSSZEHASONLÍTÁSA
