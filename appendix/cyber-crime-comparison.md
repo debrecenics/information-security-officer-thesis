@@ -2,7 +2,7 @@
 
 ### EU
 
-* DIRECTIVE 2013/40/EU on attacks against information systems and replacing Council Framework Decision 2005/222/JHA [] 
+* _DIRECTIVE 2013/40/EU on attacks against information systems and replacing Council Framework Decision 2005/222/JHA_
   * provides criminal penalties at least for cases which are not minor
   * crimes
     1. Illegal access to information systems
@@ -17,7 +17,7 @@
 
 ### Hungary
 
-* 2012. évi C. törvény a Büntető Törvénykönyvről
+* _2012. évi C. törvény a Büntető Törvénykönyvről_
   * Levéltitok megsértése
     * 1-3 évig terjedő börtönbüntetés
   * Információs rendszer felhasználásával elkövetett csalás
@@ -31,7 +31,7 @@
 
 ## USA
 
-* Computer Fraud and Abuse Act (CFAA)
+* _Computer Fraud and Abuse Act (CFAA)_
   * Obtaining National Security Information
     * at most 10 years
   * Accessing a Computer and Obtaining Information
@@ -53,5 +53,5 @@
 
 ### Texas
 
-* Texas Cybercrime Act
+* _Texas Cybercrime Act_
   *  specifies penalties based on the size of the caused damages
