@@ -4,7 +4,7 @@
 
 * DIRECTIVE 2013/40/EU on attacks against information systems and replacing Council Framework Decision 2005/222/JHA [] 
   * provides criminal penalties at least for cases which are not minor
-  * criminals
+  * crimes
     1. Illegal access to information systems
     2. Illegal system interference
     3. Illegal data interference
